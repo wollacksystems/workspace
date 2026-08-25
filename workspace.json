@@ -1,5 +1,11 @@
 {
   "$schema": "https://wazootech.github.io/workspace-cli/schema.json",
   "schemaVersion": 2,
-  "repositories": []
+  "repositories": [
+    {
+      "name": "wollacksystems.github.io",
+      "url": "https://github.com/wollacksystems/wollacksystems.github.io.git",
+      "groups": ["flagship"]
+    }
+  ]
 }
