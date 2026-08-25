@@ -6,6 +6,11 @@
       "name": "wollacksystems.github.io",
       "url": "https://github.com/wollacksystems/wollacksystems.github.io.git",
       "groups": ["flagship"]
+    },
+    {
+      "name": "wollackpedia",
+      "url": "https://github.com/wollacksystems/wollackpedia.git",
+      "groups": ["company-brain"]
     }
   ]
 }
