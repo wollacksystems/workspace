@@ -5,17 +5,27 @@
     {
       "name": "wollacksystems.github.io",
       "url": "https://github.com/wollacksystems/wollacksystems.github.io.git",
-      "groups": ["flagship"]
+      "groups": [
+        "flagship"
+      ]
     },
     {
       "name": "wollackpedia",
       "url": "https://github.com/wollacksystems/wollackpedia.git",
-      "groups": ["company-brain"]
+      "groups": [
+        "company-brain"
+      ]
     },
     {
       "name": "memory",
       "url": "https://github.com/wollacksystems/memory.git",
-      "groups": ["memory"]
+      "groups": [
+        "memory"
+      ]
+    },
+    {
+      "name": "journeyman",
+      "url": "https://github.com/Scotch2m/Journeyman.git"
     }
   ]
 }
