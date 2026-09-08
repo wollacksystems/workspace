@@ -26,6 +26,10 @@
     {
       "name": "journeyman",
       "url": "https://github.com/Scotch2m/Journeyman.git"
+    },
+    {
+      "name": "journeyman-sim",
+      "url": "https://github.com/wollacksystems/journeyman-sim.git"
     }
   ]
 }
