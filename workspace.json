@@ -10,13 +10,6 @@
       ]
     },
     {
-      "name": "wollackpedia",
-      "url": "https://github.com/wollacksystems/wollackpedia.git",
-      "groups": [
-        "company-brain"
-      ]
-    },
-    {
       "name": "memory",
       "url": "https://github.com/wollacksystems/memory.git",
       "groups": [
