@@ -23,6 +23,10 @@
     {
       "name": "journeyman-sim",
       "url": "https://github.com/wollacksystems/journeyman-sim.git"
+    },
+    {
+      "name": "journeyman-video",
+      "url": "https://github.com/wollacksystems/journeyman-video.git"
     }
   ]
 }
