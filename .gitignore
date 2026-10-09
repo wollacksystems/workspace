@@ -3,3 +3,6 @@
 repos/
 worktrees/
 secrets/
+
+# Temp files.
+/tmp/
